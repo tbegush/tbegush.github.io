@@ -20,7 +20,14 @@ header h1 {
   padding-right: 5px;
   background-color: #8ccbcb;
   align-items: center;
+  
+  }
+
+header h1 a img {
+   padding-top: 9px;
 }
+
+
 
 nav ul {
   display: flex;
@@ -83,26 +90,35 @@ main {
 article main {
   background-color: #ecedf5;
   display: flex;
-  height: 400px;
+  height: auto;
   border: 5px;
   justify-content: center;
   align-items: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 
 article figure {
-   
+    display: inline;
     background-color:#ecedf5;
-    background-size: cover;
-    padding: 10px;
-
-    }
-
-article a {
-    border-width: 6px;
-    border-style: solid;
-    border-color: #8CCBCB;
+   justify-content: space-between;
 }
 
+article main a {
+    align-items: center;
+    height: 90%;
+    border-width: 6px;
+    border-style: solid;
+    border-color: #8ccbcb;
+}
+
+article figure img {
+    flex-direction: row;
+    height: 90%;
+    border-width: 6px;
+    border-style: solid;
+    border-color: #93cb8c;
+}
 
 article div h2 {
   background-color: #8ccbcb;
