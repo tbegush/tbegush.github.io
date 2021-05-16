@@ -16,8 +16,10 @@ header {
 }
 
 header h1 {
+  padding-top: 0px;
+  padding-bottom: 4px;
+  padding-right: 10px;
   padding-left: 10px;
-  padding-right: 5px;
   background-color: #8ccbcb;
   align-items: center;
   
@@ -101,15 +103,18 @@ article main {
 article figure {
     display: inline;
     background-color:#ecedf5;
-   
 }
 
+article figure a {
+    justify-content: space-between;
+}
 article main a {
     align-items: center;
     height: 90%;
     border-width: 6px;
     border-style: solid;
     border-color: #8ccbcb;
+    
 }
 
 article figure img {
@@ -117,7 +122,8 @@ article figure img {
     height: 90%;
     border-width: 6px;
     border-style: solid;
-    border-color: #93cb8c;
+    border-color: #26f00c;
+    
 }
 
 article div h2 {
