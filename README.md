@@ -2,7 +2,7 @@
 
 * [Description](#description)
   
-* [License](#license) 
+* [Screenshot](#screenshot)
   
 * [contactInfo](#contactInfo)
 
