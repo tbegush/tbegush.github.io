@@ -9,11 +9,12 @@
 
 ## Description of this page
 
-Sample of work by Thomas Begush
+* Sample of work by Thomas Begush
 
-##Screenshot
+## Screenshot
 
 ![tbegush.github.io](https://github.com/tbegush/tbegush.github.io/blob/main/Screenshot.png)
+
  ## Questions 
   
 * [Email](mailto:tbegush@gmail.com)
