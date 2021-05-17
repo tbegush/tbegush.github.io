@@ -22,14 +22,11 @@ header h1 {
   padding-left: 10px;
   background-color: #8ccbcb;
   align-items: center;
-  
-  }
-
-header h1 a img {
-   padding-top: 9px;
 }
 
-
+header h1 a img {
+  padding-top: 9px;
+}
 
 nav ul {
   display: flex;
@@ -101,30 +98,28 @@ article main {
 }
 
 article figure {
-    display: inline;
-    background-color:#ecedf5;
+  display: inline;
+  background-color: #ecedf5;
 }
 
 article figure a {
-    justify-content: space-between;
-    align-items: center;
+  justify-content: space-between;
+  align-items: center;
 }
 article main a {
-    align-items: center;
-    height: 90%;
-    border-width: 6px;
-    border-style: solid;
-    border-color: #8ccbcb;
-    
+  align-items: center;
+  height: 90%;
+  border-width: 6px;
+  border-style: solid;
+  border-color: #8ccbcb;
 }
 
 article figure img {
-    flex-direction: row;
-    height: 90%;
-    border-width: 6px;
-    border-style: solid;
-    border-color: #26f00c;
-    
+  flex-direction: row;
+  height: 90%;
+  border-width: 6px;
+  border-style: solid;
+  border-color: #26f00c;
 }
 
 article div h2 {
@@ -149,10 +144,8 @@ footer div h2 {
 }
 
 footer ul a {
-  
   background-color: #ecedf5;
-  
- }
+}
 
 footer div ul {
   border-bottom: #34373f 6px solid;
