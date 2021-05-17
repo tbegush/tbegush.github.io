@@ -20,3 +20,5 @@
 * [Email](mailto:tbegush@gmail.com)
   
 * [Github](https://github.com/tbegush)
+
+* [LinkedIn](https://www.linkedin.com/in/tbegush)
